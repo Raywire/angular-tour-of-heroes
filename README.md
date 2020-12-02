@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0481fce9-31c6-47cc-b0a8-e2b9dfb5863d/deploy-status)](https://app.netlify.com/sites/tour-of-heroes-tutorial/deploys)
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
